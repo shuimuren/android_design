@@ -1,0 +1,1 @@
+package com.design.andoid.lhj.android_design.msgctrl;/** * Created by lhj on 18/5/7 */public class ControllerId {    /**     * 升级     */    public static final int UPGRADE_CONTROLLER = 0x0000;    /**     * 数据请求     */    public static final int REQUEST_CONTROLLER = 0x0001;}

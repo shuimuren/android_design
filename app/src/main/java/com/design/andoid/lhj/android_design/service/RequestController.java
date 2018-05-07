@@ -1,0 +1,1 @@
+package com.design.andoid.lhj.android_design.service;import com.design.andoid.lhj.android_design.msgctrl.AbstractController;/** * Created by lhj on 18/5/7 */public class RequestController extends AbstractController {}

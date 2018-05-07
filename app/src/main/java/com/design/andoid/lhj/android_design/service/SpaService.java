@@ -1,0 +1,1 @@
+package com.design.andoid.lhj.android_design.service;/** * */public interface SpaService {}
