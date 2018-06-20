@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.orhanobut:logger-2.2.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../IM_Android_SDK_3.1.2/samples/sample/gradle/caches/transforms-1/files-1.1/logger-2.2.0.aar/bdfa8031247416dafb8f88eaa60c947b/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../IM_Android_SDK_3.1.2/samples/sample/gradle/caches/transforms-1/files-1.1/logger-2.2.0.aar/bdfa8031247416dafb8f88eaa60c947b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/logger-2.2.0.aar/da024a8a296b8b2518731d4ed4d20117/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/logger-2.2.0.aar/da024a8a296b8b2518731d4ed4d20117/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../IM_Android_SDK_3.1.2/samples/sample/gradle/caches/modules-2/files-2.1/com.orhanobut/logger/2.2.0/ab592e9d70f1f3ef6f9a62c2066b3d3ac08244e8/logger-2.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orhanobut/logger/2.2.0/ab592e9d70f1f3ef6f9a62c2066b3d3ac08244e8/logger-2.2.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

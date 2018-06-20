@@ -1,0 +1,1 @@
+package  com.lhj.android_design.service.response;import  com.lhj.android_design.resultbean.UserInfo;import  com.lhj.android_design.service.BaseResult;/** * Created by lhj on 18/5/9 */public class UserInfoResult extends BaseResult<UserInfo> {}
